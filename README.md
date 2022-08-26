@@ -1,4 +1,4 @@
-# github-explorer
+# Github Explorer
 
 ## Descrição
 
