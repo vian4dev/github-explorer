@@ -18,5 +18,9 @@
 </div>
 
 ## Demostração
+Apresentação da tela do aplicativo.
+<div align="center">
+  <img src="https://i.ibb.co/SQcf36F/github-explorer.png" alt="github-explorer" border="0">
+</div>
 
 ## Instalação
