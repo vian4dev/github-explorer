@@ -21,7 +21,7 @@ export function RepositoryList() {
   console.log(repositories)
   return (
     <section className="repository-list">
-      <h1>Lista de repositórios</h1>
+      <h1>Lista de Repositórios</h1>
 
       <ul>
         {repositories.map(repository => {
