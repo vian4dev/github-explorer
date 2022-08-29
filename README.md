@@ -25,6 +25,7 @@ Apresentação da tela do aplicativo.
 </div>
 
 ## Instalação
+Clone o repositório.
 ~~~
 git clone https://github.com/vian4dev/github-explorer.git
 ~~~
