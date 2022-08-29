@@ -41,3 +41,8 @@ Execute a aplicação.
 ~~~
 yarn dev
 ~~~
+
+<div align="center"> 
+ 🤖 Desenvolvido por - <a href="">Gabriel Viana</a>
+</div>
+
