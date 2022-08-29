@@ -25,3 +25,18 @@ Apresentação da tela do aplicativo.
 </div>
 
 ## Instalação
+~~~
+git clone https://github.com/vian4dev/github-explorer.git
+~~~
+Acesse o diretório do projeto.
+~~~
+cd github-explorer
+~~~
+Instale as dependências.
+~~~
+yarn
+~~~
+Execute a aplicação.
+~~~
+yarn dev
+~~~
