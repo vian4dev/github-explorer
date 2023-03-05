@@ -54,7 +54,7 @@ git clone https://github.com/vian4dev/github-explorer.git
 ~~~
 Acesse o diretório do projeto.
 ~~~
-cd github-explorer
+cd github-explorer/
 ~~~
 Instale as dependências.
 ~~~
