@@ -24,15 +24,17 @@
 # Github Explorer
 
 ## ✒️ Descrição
-No primeiro módulo do curso de React na _Trilha Ignite_ da Rocketseat foi criado essa aplicação onde o seu principal objetivo é uma pequena aplicação de listar diretórios do GitHub da Rocketseat, com objetivo de aprender mais sobre os conceitos fundamentais do React e consumo de API`s.
+No primeiro módulo do curso de React na _Trilha Ignite_ da Rocketseat foi criado essa aplicação onde o seu principal objetivo é uma pequena aplicação de listar diretórios do GitHub da Rocketseat, com objetivo de aprender mais sobre os conceitos fundamentais do React e consumo de APIs.
 
 ## 🚀 Tecnologias utilizadas
 <div style="display: inline_block"><br>
   <img align="center" alt="img-html" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   
   <img align="center" alt="img-javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-  
+	
   <img align="center" alt="img-typescript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
+  
+  <img align="center" alt="img-react" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   
   <img align="center" alt="img-sass" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
 
