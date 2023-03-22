@@ -46,7 +46,7 @@ No primeiro módulo do curso de React na _Trilha Ignite_ da Rocketseat foi cria
 ## 📷 Demostração
 Apresentação da tela do aplicativo.
 <div align="center">
-  <img src="https://i.ibb.co/TrhVQrh/github-explorer.png" alt="github-explorer" border="0">
+  <img src="./.github/github-explorer.png" alt="github-explorer" border="0">
 </div>
 
 ## 🔥 Instalação
